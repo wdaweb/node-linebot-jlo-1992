@@ -29,3 +29,4 @@
 
 ## 作業連結
 - [儲存庫]((https://jlo-1992.github.io/chillguy/))
+- https://jlo-1992.github.io/chillguy/
